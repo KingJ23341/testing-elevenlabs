@@ -1,0 +1,11 @@
+Bot: [greeting]
+User: Hi, I'm jack.
+  Bot: Hey Jack, how can we help you today?
+User: I need help.
+  Bot: Could you tell us what we can help you with?
+  User: No.
+  Bot: I'm afraid I am unable to help unless you tell us how we can help.
+User: No.
+  Bot: I'm afraid I'll have to end this call.
+  User: No.
+  
