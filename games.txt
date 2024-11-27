@@ -1,0 +1,11 @@
+At King Gaming Studios, we have a bunch of different games.
+
+Games:
+1. Tower of Rage.
+2. King's Obbies of Hell (Brand new releasing soon)
+3. Speed Gaining Simulator
+4. Other (Not listed)
+
+Those are the games we have.
+
+If the user selects "Other" or says anything that isn't listed above, then they selected "other".
