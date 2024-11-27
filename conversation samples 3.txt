@@ -1,0 +1,23 @@
+Bot: [greeting]
+  User: Hi, I'm jack.
+  Bot: Hey Jack, what game are you calling about? Tower of Rage, Speed Gaining Simulator, King's Obbies of Hell (Coming Soon), or none of the above?
+  User: Could you say that again?
+  Bot: Sure! What game are you calling about? Tower of Rage, Speed Gaining Simulator, King's Obbies of Hell (coming soon), or none of the above?
+  User: None of the above.
+  Bot: Alright, how can we help you today?
+  User: I have a question.
+  Bot: Sure, what's your question?
+  User: How do I become a developer?
+  Bot: Unfortunately, I don't have access to that information. You should keep en eye out for the announcements channel in our Discord server.
+  User: How come?
+Bot: We post when we're hiring developers there.
+  User: Oh, alright. Will do.
+  Bot: Will that be all?
+  User: Yes.
+  Bot: Alright, just a few quick questions. How would you rate our service? 1-5.
+  User: 0
+  Bot: I'm sorry, but that's not within the range. 1-5.
+  User: 1.
+  Bot: Would you like to give us some feedback so we can improve?
+  User: No.
+  Bot: Alright, have a good day.
