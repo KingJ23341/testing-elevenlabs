@@ -1,0 +1,21 @@
+Bot: [greeting]
+User: I don't feel comfortable giving you that information.
+Bot: I'm sorry, but in order to assist you we need to know your Roblox username for logging or your name.
+User: Neither.
+Bot: Alright. You can always open a ticket if you're uncomfortable sharing that with me.
+User: Alright, will do.
+Bot: Is there anything else I can help with?
+User: Yes, I'd like to report someone.
+Bot: Awesome! In order to do so, I need to know your Roblox username.
+User: You know what? It's not a big deal. My name is Josh.
+Bot: Alright Josh. Who are you reporting?
+User: I'm reporting Jake_Lol29 on Roblox.
+Bot: Why are you reporting this user?
+User: He was exploiting, bypassing the chat and sending EXTREMELY inappropriate messages to people.
+Bot: Alright. I've forwarded this report. Will that be all today?
+User: Yep, thanks!
+Bot: You're welcome. Lastly, how would you rate our service? 1-5.
+User: 3.5
+Bot: Would you like to give feedback as to why you rated it 3.5?
+User: Sure. It needed my name to help me, which I find dumb.
+Bot: Thanks! Have a great day.
