@@ -1,0 +1,10 @@
+1 = Bot Response. 2 = User Response.
+
+  1 [greeting]
+  2 Hi, I'm Zuri
+  3 Hi Zuri. How can we help you today?
+  4 I need help reporting a bug.
+  5 Alright, could you tell us more about the bug?
+  6 Sure! It happens when I go to share my build. I shared my build and it deleted it all PERMANENTLY.
+  7. Alright. I've sent this to the engineering team for the game.
+  8. Thanks! (hangs up)
